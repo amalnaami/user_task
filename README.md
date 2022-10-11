@@ -25,10 +25,10 @@ any user you will move to his posts.
 * Define App Text Theme which contain
 
     *
-        - [x] TextTheme
+         TextTheme
         
     *
-        - [x] App Font Family
+         App Font Family
 * Define color palette for the app on Constant.
 * For API calls : `Dio`
 * Log APIs using LogInterceptor in Dio package
@@ -39,11 +39,16 @@ any user you will move to his posts.
 
 
 
+
+### Screen Record
+
 https://user-images.githubusercontent.com/75214477/195036744-38084225-c18c-4599-8a1e-4f1ed4bc6a83.mp4
 
 
 
-## Tech Stack
+
+
+## 📝 Tech Stack
 
 **API Calls:** [dio](https://pub.dev/packages/dio)
 

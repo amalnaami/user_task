@@ -6,8 +6,9 @@ Founded in 2017, Floward is an online flower and gifting company, Operating in 3
 MENA region and London, UK, we guarantee same-day delivery across the board through our own refrigerated fleet to ensure
 our arrangements arrive fresh to the customer.
 
-![Logo](https://floward.imgix.net/web/Files/attachment/floward-logo-01-637374032965010488.svg?w=110&h=32&fit=crop&crop=entropy)
-<br><br>
+![Outlook-Icon](https://user-images.githubusercontent.com/75214477/195042798-4a63fdb3-bf9c-4281-9863-db98bab7a1be.png)
+
+
 
 # 🚀🚀 User and posts App
 

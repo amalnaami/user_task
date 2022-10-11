@@ -137,7 +137,6 @@ I will be happy to answer any questions that you may have on this approach 🙂
 
 
 ### Assignment From [Floward](https://flowardcareers.elevatus.io)
-![Uploading Simulator Screen Shot - iPhone 14 Pro - 2022-10-11 at 13.31.30.png…]()
 
 
 

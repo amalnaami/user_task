@@ -22,8 +22,10 @@ any user you will move to his posts.
 
 * Publish the project on Github
 * Define App Text Theme which contain
+
     *
         - [x] TextTheme
+        
     *
         - [x] App Font Family
 * Define color palette for the app on Constant.
@@ -34,13 +36,19 @@ any user you will move to his posts.
 * Provide Localization options (English and Arabic)
 * Reusable UI components
 
-![User Task](https://drive.google.com/file/d/15ehBVZ2ERO7FwTIgep2hrbOJZk98g1C1/view?usp=sharing)
+
+
+https://user-images.githubusercontent.com/75214477/195036744-38084225-c18c-4599-8a1e-4f1ed4bc6a83.mp4
+
+
 
 ## Tech Stack
 
 **API Calls:** [dio](https://pub.dev/packages/dio)
 
 **State management:** [riverpod](https://pub.dev/packages/riverpod)
+
+**Navigaton Route:** [go_route](https://pub.dev/packages/go_router)
 
 **Project structure:**
 
